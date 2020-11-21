@@ -1,0 +1,23 @@
+{
+ "student":"Amrinder Kaur",
+ "version":"2",
+ "count": 3,
+ "data":
+[{
+  "type": "Balcony Level", 
+  "price":1170, 
+  "amount":20
+},
+ {
+  "type": "Lower Level", 
+  "price":10434, 
+  "amount":40
+},
+{
+"type": "Courtside", 
+  "price":27777, 
+  "amount":30
+}
+
+]
+}
